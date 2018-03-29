@@ -1,0 +1,18 @@
+{
+    "name": "justice998/hello",
+    "description": "An example of composer package",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "justice998",
+            "email": "yellowrna@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+      "psr-4": {
+        "Hello\\": "src/"
+      }
+    }
+}
