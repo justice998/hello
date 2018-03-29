@@ -1,7 +1,7 @@
 {
     "name": "justice998/hello",
     "description": "An example of composer package",
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "justice998",
